@@ -18,6 +18,7 @@
   <String Src="%CompactOS%" Dst="Sistema operativo compacto"/>
   <String Src="%EsdSupport%" Dst="Soporte ESD"/>
   <String Src="%EsdSupportDes%" Dst="La conversión de ESD → ISO nunca fue tan fácil como ahora."/>
+  <String Src="%WindowsUpdate%" Dst="Windows Update"/>
   <String Src="%WindowsUpdateDes%" Dst="Las actualizaciones las eliges tu mismo - y no te preocupes."/>
   <String Src="%SystemRecover%" Dst="Recuperación del sistema"/>
   <String Src="%Green%" Dst="Totalmente seguro"/>
